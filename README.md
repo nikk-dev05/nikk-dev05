@@ -34,15 +34,6 @@
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://chat.openai.com/mnt/data/Resume.pdf" download="Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Button">
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
