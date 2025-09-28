@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4BC6B9&center=true&vCenter=true&width=435&lines=Final+Year+B.Tech+Student;Full+Stack+Develpper +%7C;Building+Secure+REST+APIs+%26+Real+World+Projects" alt="Typing animation" />
-</p>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
